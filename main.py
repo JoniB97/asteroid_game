@@ -2,7 +2,7 @@
 # the open-source pygame library
 # throughout this file
 import pygame
-import sysw
+import sys
 from asteroid import Asteroid
 from asteroidfield import AsteroidField
 from player import Player
